@@ -1,4 +1,4 @@
-This directory contains (besides this README.txt) four folders (Fibril, Monomer, Collagen, Fibronectin) that contain ITP files (separated by chain) of simulations discussed in the article.
+This directory contains (besides this README.txt) four folders (Fibril, Monomer, Collagen, Fibronectin) that contain ITP files (separated by chain) of the simulations discussed in the article.
 
 Fibril;
 This folder contains five sub-directories containing SAA3 fibril ITP files (separated by chain) describing the system:
