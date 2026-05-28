@@ -1,4 +1,4 @@
-This directory contains (besides this README.txt) four folders (Fibril, Monomer, Collagen, Fibronectin) that contain files with the atomic coordinates (in PDB format) of SAA3 structures discussed in the article. An additional folder (Parameter Files) contains mdp files of parameter settings for GROMACS simulations.
+This directory contains (besides this README.txt) four folders (Fibril, Monomer, Collagen 1a, Fibronectin) that contain files with the atomic coordinates (in PDB format) of SAA3 structures discussed in the article. An additional folder (Parameter Files) contains mdp files of parameter settings for GROMACS simulations.
 
 Fibril;
 This folder contains five sub-directories containing all SAA3 fibril configurations:
