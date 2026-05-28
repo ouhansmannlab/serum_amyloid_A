@@ -1,7 +1,7 @@
 This directory contains (besides this README.txt) four folders (Fibril, Monomer, Collagen 1a, Fibronectin) that contain topology files and ITP files (separated by chain) of the simulations discussed in the article.
 
 Fibril;
-This folder contains five sub-directories containing SAA3 fibril topology file and ITP files (separated by chain) describing the system:
+This folder contains five sub-directories containing SAA3 fibril topology files and ITP files (separated by chain) describing the system:
 
 1) control:
 topol.top                                             : topology file describing the system
@@ -41,7 +41,7 @@ topol_Protein_chain_G.itp - topol_Protein_chain_L.itp : topology .itp files for 
 posre_Protein_chain_G.itp - posre_Protein_chain_L.itp : position restraint .itp files for individual H6A peptides
 
 Monomer;
-This folder contains five sub-directories containing SAA3 monomer topology file and ITP files (separated by chain) describing the system:
+This folder contains five sub-directories containing SAA3 monomer topology files and ITP files (separated by chain) describing the system:
 
 1) control:
 topol.top : topology file describing the system
@@ -80,7 +80,7 @@ topol_Protein_chain_B.itp : topology .itp file for H6A peptide
 posre_Protein_chain_B.itp : position restraint .itp file for H6A peptide
 
 Collagen 1a;
-This folder contains five sub-directories containing collagen 1a topology file and ITP files (separated by chain) describing the system:
+This folder contains five sub-directories containing collagen 1a topology files and ITP files (separated by chain) describing the system:
 
 1) control:
 topol.top                                             : topology file describing the system
@@ -120,7 +120,7 @@ topol_Protein_chain_G.itp - topol_Protein_chain_F.itp : topology .itp files for 
 posre_Protein_chain_G.itp - posre_Protein_chain_F.itp : position restraint .itp files for individual H6A peptides
 
 Fibronectin;
-This folder contains five sub-directories containing fibronectin topology file and ITP files (separated by chain) describing the system:
+This folder contains five sub-directories containing fibronectin topology files and ITP files (separated by chain) describing the system:
 
 1) control:
 topol.top : topology file describing the system
